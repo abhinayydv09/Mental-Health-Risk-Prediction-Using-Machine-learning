@@ -1,4 +1,4 @@
-# 🧠 Mental Health Prediction Using Machine Learning
+# 🧠 Mental Health Risk Prediction Using Machine Learning
 
 ## 📄 Overview  
 This project analyzes **mental health survey data** to uncover trends, patterns, and influencing factors that contribute to mental well-being — especially within workplace environments.  
