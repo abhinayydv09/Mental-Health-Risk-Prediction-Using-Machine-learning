@@ -1,4 +1,3 @@
-# Mental-Health-Risk-Prediction-Using-Machine-learning
 # 🧠 Mental Health Survey Analysis
 
 ## 📄 Overview  
@@ -11,7 +10,7 @@ The analysis focuses on identifying key psychological and organizational element
 - Explore and visualize mental health indicators from survey data.  
 - Identify correlations between job-related factors and mental well-being.  
 - Build machine learning models to predict mental health outcomes.  
-- Use SHAP to interpret and explain model predictions.
+- Interpret model predictions using SHAP for transparency and explainability.
 
 ---
 
@@ -23,7 +22,7 @@ The analysis focuses on identifying key psychological and organizational element
 - `numpy` – Numerical computations  
 - `matplotlib`, `seaborn` – Visualization and trend analysis  
 - `scikit-learn` – Machine learning algorithms and evaluation  
-- `xgboost`, `lightgbm` – Gradient boosting models  
+- `lightgbm` – Gradient boosting models  
 - `shap` – Model interpretation and explainability  
 
 ---
@@ -44,7 +43,7 @@ The analysis focuses on identifying key psychological and organizational element
    - Compare performance metrics  
 
 4. **Explainability**  
-   - Use **SHAP** to visualize and interpret feature importance  
+   - Use **SHAP** to interpret feature importance and understand model decisions  
 
 5. **Conclusion**  
    - Derive insights on major contributors to mental health  
@@ -53,3 +52,35 @@ The analysis focuses on identifying key psychological and organizational element
 ---
 
 ## 📁 Repository Structure  
+---
+📦 Mental-Health-Analysis
+ ┣ 📜 Mental Health.ipynb        # Main analysis notebook
+ ┣ 📊 data                      # (Optional) Folder for dataset
+ ┗ 📘 README.md                  # Project documentation
+
+---
+
+## 🚀 How to Run  
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/yourusername/Mental-Health-Analysis.git
+   cd Mental-Health-Analysis
+2. **Open the Jupyter Notebook**
+   ```bash
+   jupyter notebook "Mental Health.ipynb"
+3. **Run the cells sequentially to reproduce the analysis.**
+
+---
+
+## 📈 Results and Insights
+   - Identified key workplace and personal factors influencing mental well-being.
+   - Developed and evaluated machine learning models (XGBoost, LightGBM, Random Forest, Logistic Regression).
+   - Achieved strong predictive accuracy and interpretability using SHAP.
+   - Visualized important trends such as job satisfaction, stress levels, and fairness perception.
+   - Provided actionable insights to support mental health awareness and workplace improvement.
+
+---
+
+## 👤 Author
+   Created by AY
