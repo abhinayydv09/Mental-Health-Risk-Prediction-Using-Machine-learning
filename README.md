@@ -53,10 +53,10 @@ The analysis focuses on identifying key psychological and organizational element
 
 ## 📁 Repository Structure  
 
-📦 Mental-Health-Analysis
- ┣ 📜 Mental Health.ipynb        # Main analysis notebook
- ┣ 📊 data                      # (Optional) Folder for dataset
- ┗ 📘 README.md                  # Project documentation
+📦 Mental-Health-Risk-Prediction-Using-Machine-Learning
+ ┣ 📜 Mental Health.ipynb       
+ ┣ 📊 survey.csv                     
+ ┗ 📘 README.md                 
 
 ---
 
@@ -83,4 +83,4 @@ The analysis focuses on identifying key psychological and organizational element
 ---
 
 ## 👤 Author
-   Created by AY
+   **Created by AY**
