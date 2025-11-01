@@ -39,8 +39,8 @@ The analysis focuses on identifying key psychological and organizational element
    - Identify key stress and satisfaction factors  
 
 3. **Modeling**  
-   - Train and evaluate multiple ML models  
-   - Compare performance metrics  
+   - Training and comparing ML models (XGBoost, LightGBM, Random Forest, Logistic Regression)
+   - Evaluating model accuracy and performance metrics  
 
 4. **Explainability**  
    - Use **SHAP** to interpret feature importance and understand model decisions  
@@ -52,7 +52,7 @@ The analysis focuses on identifying key psychological and organizational element
 ---
 
 ## 📁 Repository Structure  
----
+
 📦 Mental-Health-Analysis
  ┣ 📜 Mental Health.ipynb        # Main analysis notebook
  ┣ 📊 data                      # (Optional) Folder for dataset
@@ -75,7 +75,7 @@ The analysis focuses on identifying key psychological and organizational element
 
 ## 📈 Results and Insights
    - Identified key workplace and personal factors influencing mental well-being.
-   - Developed and evaluated machine learning models (XGBoost, LightGBM, Random Forest, Logistic Regression).
+   - Developed and evaluated machine learning models (LightGBM, Random Forest, Logistic Regression).
    - Achieved strong predictive accuracy and interpretability using SHAP.
    - Visualized important trends such as job satisfaction, stress levels, and fairness perception.
    - Provided actionable insights to support mental health awareness and workplace improvement.
